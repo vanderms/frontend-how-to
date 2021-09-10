@@ -33,5 +33,6 @@ header {
 .card {
   height: 3rem;
   width: 8rem;  
+  margin: 0.5rem 0.5rem 0 0;
   background-color: gray;
 }
